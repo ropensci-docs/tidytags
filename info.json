@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b983839ee1a1cf7cce29a28430085ee69406dd03",
+    "author": "Bret Staudt Willet <bret.staudt.willet@gmail.com>",
+    "time": "2022-02-22 20:07:07",
+    "files": 31,
+    "merge": false,
+    "message": "updated downloading innstructions\n"
+  },
+  "repo": "https://github.com/ropensci/tidytags",
+  "pkg": "tidytags"
+}
